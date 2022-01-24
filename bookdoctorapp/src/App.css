@@ -1,0 +1,175 @@
+.App {
+  background-image: url("https://static.wixstatic.com/media/84770f_187545528ee77fac3cf55d102da8c89e.jpg/v1/crop/x_153,y_0,w_973,h_561/fill/w_596,h_344,al_c,q_80,usm_0.66_1.00_0.01/84770f_187545528ee77fac3cf55d102da8c89e.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 530px;
+}
+
+.App-header {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.log{
+  color: black;
+}
+
+.Login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid lightgray;
+  padding: 50px;
+}
+
+.Button {
+  padding: 40px;
+}
+
+.noAccount{
+  color :black;
+  font-size: 16px;
+}
+.about{
+  background-image: url("https://img.freepik.com/fotos-gratis/estetoscopio-e-mascara-medica_23-2147652361.jpg?size=626&ext=jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: black;
+  height: 525px;
+  text-align: center;
+  padding-top: 150px;
+}
+.About-Us{
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.login{
+  background-image: url("https://cdn.lifehack.org/wp-content/uploads/2013/06/doctor-appointment.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 525px;
+  padding-left: 400px;
+  color: black;
+  font-size: 26px;
+  padding-top: 200px;
+  text-decoration: none;
+}
+.create{
+  height: 700px;
+  width:1200px;
+  padding-left: 460px;
+  padding-top: 50px;
+}
+.aprove{
+  color: red;
+  font-size: 70px;
+}
+.view{
+  height: 500px;
+  width: 800px;
+  padding-top: 50px;
+  padding-left: 450px;
+  font-size: large;
+}
+.views{
+text-align: center;
+background-image: url("https://thumbs.dreamstime.com/b/frame-medical-equipment-blue-background-flat-lay-clipboard-stethoscope-pills-syringe-protective-respiratory-mask-banner-170871807.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 525px;
+}
+.tableHead{
+  background-color: aqua;
+}
+.table{
+  width: 1200px;
+  padding-left: 100px;
+}
+.tableDoctor{
+  width: 1220px;
+  padding-left: 50px;
+  
+}
+.table1{
+  width:830px;
+ padding-left: 350px;
+}
+.tablefeed{
+width: 400px;
+}
+.feed{
+  width: 1000px;
+  padding-left: 180px;
+}
+.bg{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmbZ_jm_Bz7QYEz51aWH_JSaS1v07f87EAAg&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 1000px;
+}
+.allign{
+  text-align: center;
+}
+.button{
+ width: 400px;
+padding-left: 380px;
+padding-bottom: 10px;
+padding-top: 10px;
+}
+.link{
+  font-size: 24px;
+  text-align: center;
+}
+.adding{
+  background-image: url("https://img.freepik.com/free-photo/doctor-s-stethoscope-with-blue-background_23-2147652363.jpg?size=626&ext=jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 1000px;
+}
+.save{
+padding-top: 30px;
+}
+.cancel{
+  padding-top: 30px;
+  padding-left: 40px; 
+}
+.create{
+  padding-left: 480px;
+  padding-top: 50px;;
+}
+.update{
+  text-align: center;
+  font-size: 36px;
+}
+.box{
+  height: 300px;
+  width: 300px;
+  background-color: rgb(245, 224, 224);
+  border-radius: 8px;
+}
+.boxes{
+  padding-left: 50px;
+  padding-top: 20px;
+}
+.doctor{
+  height: 800px;
+  width:300px;
+  background-color: rgb(245, 224, 224);
+  border-radius: 8px;
+}
+.doctors{
+  padding-left: 50px;
+  padding-top: 20px;
+}
